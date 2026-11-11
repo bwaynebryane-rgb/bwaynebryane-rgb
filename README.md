@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Brian 👋
 
-<!--
-**bwaynebryane-rgb/bwaynebryane-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 
+- I'm currently Learning Python, Git & Github
+-  Aspiring software Developer from Kenya
+-  Based in Rongai, Nairobi
+-  -Goal: Build real Projects and grow as a developer
 
-Here are some ideas to get you started:
+-  ## Language & Tools
+-  Python
+-  HTML & CSS
+-  GIT & GITHUB
+-  VS CODE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ## Let's Connect
+-  Github: @bwaynebryane-rgb
+-  Always open to learning collaborating and new opportunities
+
+---
+*"Every  expert was once a beginner."*
